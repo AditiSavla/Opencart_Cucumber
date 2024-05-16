@@ -1,0 +1,51 @@
+07:42:46.978 [main] DEBUG - Parsing relationship: /_rels/.rels
+07:42:47.000 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+07:43:02.204 [main] INFO  - Goto my account-->Click on Login.. 
+07:43:02.768 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:43:02.771 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:43:02.772 [main] DEBUG - Parsing relationship: /_rels/.rels
+07:43:02.783 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+07:43:18.446 [main] INFO  - Goto my account-->Click on Login.. 
+07:43:19.010 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:43:19.012 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:43:19.013 [main] DEBUG - Parsing relationship: /_rels/.rels
+07:43:19.027 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+07:50:24.166 [main] INFO  - Goto my account-->Click on Login.. 
+07:50:24.723 [main] INFO  - Entering email and password.. 
+07:50:25.689 [main] INFO  - clicked on login button...
+07:52:42.486 [main] INFO  - Goto my account-->Click on Login.. 
+07:52:42.985 [main] INFO  - Entering email and password.. 
+07:52:43.714 [main] INFO  - clicked on login button...
+07:55:08.684 [main] INFO  - Goto my account-->Click on Login.. 
+07:55:09.306 [main] INFO  - Entering email and password.. 
+07:55:10.334 [main] INFO  - clicked on login button...
+07:58:17.907 [main] INFO  - Goto my account-->Click on Login.. 
+07:58:18.457 [main] INFO  - Entering email and password.. 
+07:58:19.518 [main] INFO  - clicked on login button...
+07:58:53.684 [main] INFO  - Goto my account-->Click on Login.. 
+07:58:54.303 [main] INFO  - Entering email and password.. 
+07:58:55.417 [main] INFO  - clicked on login button...
+08:02:13.596 [main] INFO  - Goto my account-->Click on Login.. 
+08:02:14.126 [main] INFO  - Entering email and password.. 
+08:02:15.149 [main] INFO  - clicked on login button...
+08:04:47.286 [main] INFO  - Goto my account-->Click on Login.. 
+08:04:47.822 [main] INFO  - Entering email and password.. 
+08:04:48.799 [main] INFO  - clicked on login button...
+22:36:00.179 [main] INFO  - Goto my account-->Click on Login.. 
+22:36:01.472 [main] INFO  - Entering email and password.. 
+22:36:03.125 [main] INFO  - clicked on login button...
+22:37:43.371 [main] INFO  - Goto my account-->Click on Login.. 
+22:37:44.439 [main] INFO  - Entering email and password.. 
+22:37:46.023 [main] INFO  - clicked on login button...
+22:38:52.244 [main] INFO  - Goto my account-->Click on Login.. 
+22:38:53.388 [main] INFO  - Entering email and password.. 
+22:38:55.151 [main] INFO  - clicked on login button...
+22:40:03.825 [main] INFO  - Goto my account-->Click on Login.. 
+22:40:04.906 [main] INFO  - Entering email and password.. 
+22:40:06.793 [main] INFO  - clicked on login button...
+22:42:36.421 [main] INFO  - Goto my account-->Click on Login.. 
+22:42:37.535 [main] INFO  - Entering email and password.. 
+22:42:39.308 [main] INFO  - clicked on login button...
+22:44:04.641 [main] INFO  - Goto my account-->Click on Login.. 
+22:44:05.493 [main] INFO  - Entering email and password.. 
+22:44:06.798 [main] INFO  - clicked on login button...
